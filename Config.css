@@ -1,0 +1,44 @@
+.Boton_Post
+{
+    width: 10%;
+    background-color: greenyellow;
+    font: message-box;
+    color: white;
+    font-size: medium;
+    font-family:cursive;
+    margin-top: 1%;
+    margin-left: 3%;
+    border: 1px solid grey;
+
+    box-shadow: -3px 0px 8px #000;
+
+    transition: 1s;
+    -webkit-transition: 1s;
+    -o-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+
+    
+
+}
+
+.Boton_Post:hover
+{
+    background-color:deepskyblue;
+    border: 2px solid grey;
+    width: 10%;
+    transform: rotate(360deg);
+    
+}
+
+.Entrada_Numerica
+{
+
+    margin-top: 1%;
+    margin-left: 3%;
+}
+
+.Texto_Registros
+{
+    margin-left: 3%;
+}
